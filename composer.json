@@ -1,11 +1,11 @@
 {
-    "name": "amirami/inertia-codeigniter-4",
+    "name": "NTICompass/inertia-codeigniter-4",
     "description": "Inertia server-side adapter for CodeIgniter 4",
     "keywords": [
         "inertia",
         "codeigniter"
     ],
-    "homepage": "https://github.com/amirami/inertia-codeigniter-4",
+    "homepage": "https://github.com/NTICompass/inertia-codeigniter-4",
     "license": "MIT",
     "authors": [
         {
@@ -13,6 +13,12 @@
             "email": "me@amirrami.com",
             "homepage": "https://amirrami.com",
             "role": "Developer"
+        },
+        {
+            "name": "Eric Siegel",
+            "email": "NTICompass@gmail.com",
+            "homepage": "https://generic.computers.pictures",
+            "role": "Contributor"
         }
     ],
     "require": {
