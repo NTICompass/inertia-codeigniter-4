@@ -81,9 +81,9 @@ class Factory
      * @param $component
      * @param array $props
      *
-     * @return string
+     * @return Response
      */
-    public function render($component, $props = []): string
+    public function render($component, $props = []): Response
     {
         return new Response(
             $component,
