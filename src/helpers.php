@@ -14,7 +14,7 @@ if (! function_exists('inertia')) {
         $inertia = Services::inertia();
 
         if ($component) {
-            return $inertia->render($component, $props);
+            return strval($inertia->render($component, $props));
         }
 
         return $inertia;
